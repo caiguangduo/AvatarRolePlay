@@ -1,0 +1,629 @@
+fileFormatVersion: 2
+guid: 075f447309c67c94a90939720f0211e2
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bip01 HeadNub
+    100002: Bip01 L Finger0Nub
+    100004: Bip01 L Finger1Nub
+    100006: Bip01 L Finger2Nub
+    100008: Bip01 L Finger3Nub
+    100010: Bip01 L Finger4Nub
+    100012: Bip01 L Toe0Nub
+    100014: Bip01 R Finger0Nub
+    100016: Bip01 R Finger1Nub
+    100018: Bip01 R Finger2Nub
+    100020: Bip01 R Finger3Nub
+    100022: Bip01 R Finger4Nub
+    100024: Bip01 R Toe0Nub
+    100026: Bone04
+    100028: Bone07
+    100030: Female_Bip01
+    100032: Female_Bip01 Head
+    100034: Female_Bip01 L Calf
+    100036: Female_Bip01 L Clavicle
+    100038: Female_Bip01 L Finger0
+    100040: Female_Bip01 L Finger01
+    100042: Female_Bip01 L Finger02
+    100044: Female_Bip01 L Finger1
+    100046: Female_Bip01 L Finger11
+    100048: Female_Bip01 L Finger12
+    100050: Female_Bip01 L Finger2
+    100052: Female_Bip01 L Finger21
+    100054: Female_Bip01 L Finger22
+    100056: Female_Bip01 L Finger3
+    100058: Female_Bip01 L Finger31
+    100060: Female_Bip01 L Finger32
+    100062: Female_Bip01 L Finger4
+    100064: Female_Bip01 L Finger41
+    100066: Female_Bip01 L Finger42
+    100068: Female_Bip01 L Foot
+    100070: Female_Bip01 L Forearm
+    100072: Female_Bip01 L Hand
+    100074: Female_Bip01 L Thigh
+    100076: Female_Bip01 L Toe0
+    100078: Female_Bip01 L UpperArm
+    100080: Female_Bip01 Neck
+    100082: Female_Bip01 Pelvis
+    100084: Female_Bip01 R Calf
+    100086: Female_Bip01 R Clavicle
+    100088: Female_Bip01 R Finger0
+    100090: Female_Bip01 R Finger01
+    100092: Female_Bip01 R Finger02
+    100094: Female_Bip01 R Finger1
+    100096: Female_Bip01 R Finger11
+    100098: Female_Bip01 R Finger12
+    100100: Female_Bip01 R Finger2
+    100102: Female_Bip01 R Finger21
+    100104: Female_Bip01 R Finger22
+    100106: Female_Bip01 R Finger3
+    100108: Female_Bip01 R Finger31
+    100110: Female_Bip01 R Finger32
+    100112: Female_Bip01 R Finger4
+    100114: Female_Bip01 R Finger41
+    100116: Female_Bip01 R Finger42
+    100118: Female_Bip01 R Foot
+    100120: Female_Bip01 R Forearm
+    100122: Female_Bip01 R Hand
+    100124: Female_Bip01 R Thigh
+    100126: Female_Bip01 R Toe0
+    100128: Female_Bip01 R UpperArm
+    100130: Female_Bip01 Spine
+    100132: Female_Bip01 Spine1
+    100134: Female_Bip01 Spine2
+    100136: Female_blackhair_one
+    100138: Female_blackhair_two
+    100140: Female_Bone03
+    100142: Female_Bone05
+    100144: Female_Bone07
+    100146: Female_Bone09
+    100148: Female_Bone12
+    100150: Female_Bone15
+    100152: Female_Bone18
+    100154: Female_Bone20
+    100156: Female_Bone23
+    100158: Female_frondhair_one
+    100160: Female_fronthair_two
+    100162: Female_lefthair_one
+    100164: Female_lefthair_two
+    100166: Female_leftponytail_one
+    100168: Female_leftponytail_two
+    100170: Female_lefttophair
+    100172: Female_righthair_one
+    100174: Female_righthair_two
+    100176: Female_rightponytail_one
+    100178: Female_rightponytail_two
+    100180: Female_righttophair
+    100182: //RootNode
+    100184: QY_W0006_hair_bone01
+    100186: QY_W0006_hair_bone02
+    100188: QY_W0006_hair_bone04
+    100190: QY_W0006_hair_bone05
+    100192: QY_W0006_hair_bone06
+    400000: Bip01 HeadNub
+    400002: Bip01 L Finger0Nub
+    400004: Bip01 L Finger1Nub
+    400006: Bip01 L Finger2Nub
+    400008: Bip01 L Finger3Nub
+    400010: Bip01 L Finger4Nub
+    400012: Bip01 L Toe0Nub
+    400014: Bip01 R Finger0Nub
+    400016: Bip01 R Finger1Nub
+    400018: Bip01 R Finger2Nub
+    400020: Bip01 R Finger3Nub
+    400022: Bip01 R Finger4Nub
+    400024: Bip01 R Toe0Nub
+    400026: Bone04
+    400028: Bone07
+    400030: Female_Bip01
+    400032: Female_Bip01 Head
+    400034: Female_Bip01 L Calf
+    400036: Female_Bip01 L Clavicle
+    400038: Female_Bip01 L Finger0
+    400040: Female_Bip01 L Finger01
+    400042: Female_Bip01 L Finger02
+    400044: Female_Bip01 L Finger1
+    400046: Female_Bip01 L Finger11
+    400048: Female_Bip01 L Finger12
+    400050: Female_Bip01 L Finger2
+    400052: Female_Bip01 L Finger21
+    400054: Female_Bip01 L Finger22
+    400056: Female_Bip01 L Finger3
+    400058: Female_Bip01 L Finger31
+    400060: Female_Bip01 L Finger32
+    400062: Female_Bip01 L Finger4
+    400064: Female_Bip01 L Finger41
+    400066: Female_Bip01 L Finger42
+    400068: Female_Bip01 L Foot
+    400070: Female_Bip01 L Forearm
+    400072: Female_Bip01 L Hand
+    400074: Female_Bip01 L Thigh
+    400076: Female_Bip01 L Toe0
+    400078: Female_Bip01 L UpperArm
+    400080: Female_Bip01 Neck
+    400082: Female_Bip01 Pelvis
+    400084: Female_Bip01 R Calf
+    400086: Female_Bip01 R Clavicle
+    400088: Female_Bip01 R Finger0
+    400090: Female_Bip01 R Finger01
+    400092: Female_Bip01 R Finger02
+    400094: Female_Bip01 R Finger1
+    400096: Female_Bip01 R Finger11
+    400098: Female_Bip01 R Finger12
+    400100: Female_Bip01 R Finger2
+    400102: Female_Bip01 R Finger21
+    400104: Female_Bip01 R Finger22
+    400106: Female_Bip01 R Finger3
+    400108: Female_Bip01 R Finger31
+    400110: Female_Bip01 R Finger32
+    400112: Female_Bip01 R Finger4
+    400114: Female_Bip01 R Finger41
+    400116: Female_Bip01 R Finger42
+    400118: Female_Bip01 R Foot
+    400120: Female_Bip01 R Forearm
+    400122: Female_Bip01 R Hand
+    400124: Female_Bip01 R Thigh
+    400126: Female_Bip01 R Toe0
+    400128: Female_Bip01 R UpperArm
+    400130: Female_Bip01 Spine
+    400132: Female_Bip01 Spine1
+    400134: Female_Bip01 Spine2
+    400136: Female_blackhair_one
+    400138: Female_blackhair_two
+    400140: Female_Bone03
+    400142: Female_Bone05
+    400144: Female_Bone07
+    400146: Female_Bone09
+    400148: Female_Bone12
+    400150: Female_Bone15
+    400152: Female_Bone18
+    400154: Female_Bone20
+    400156: Female_Bone23
+    400158: Female_frondhair_one
+    400160: Female_fronthair_two
+    400162: Female_lefthair_one
+    400164: Female_lefthair_two
+    400166: Female_leftponytail_one
+    400168: Female_leftponytail_two
+    400170: Female_lefttophair
+    400172: Female_righthair_one
+    400174: Female_righthair_two
+    400176: Female_rightponytail_one
+    400178: Female_rightponytail_two
+    400180: Female_righttophair
+    400182: //RootNode
+    400184: QY_W0006_hair_bone01
+    400186: QY_W0006_hair_bone02
+    400188: QY_W0006_hair_bone04
+    400190: QY_W0006_hair_bone05
+    400192: QY_W0006_hair_bone06
+    7400004: 01
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 01
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Female_Bip01
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 L Thigh
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 L Thigh/Female_Bip01
+          L Calf
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 L Thigh/Female_Bip01
+          L Calf/Female_Bip01 L Foot
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 L Thigh/Female_Bip01
+          L Calf/Female_Bip01 L Foot/Female_Bip01 L Toe0
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 L Thigh/Female_Bip01
+          L Calf/Female_Bip01 L Foot/Female_Bip01 L Toe0/Bip01 L Toe0Nub
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 R Thigh
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 R Thigh/Female_Bip01
+          R Calf
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 R Thigh/Female_Bip01
+          R Calf/Female_Bip01 R Foot
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 R Thigh/Female_Bip01
+          R Calf/Female_Bip01 R Foot/Female_Bip01 R Toe0
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 R Thigh/Female_Bip01
+          R Calf/Female_Bip01 R Foot/Female_Bip01 R Toe0/Bip01 R Toe0Nub
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/Bip01 HeadNub
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/Female_blackhair_one
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/Female_blackhair_one/Female_blackhair_two
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/Female_blackhair_one/Female_blackhair_two/Female_Bone15
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/Female_frondhair_one
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/Female_frondhair_one/Female_Bone07
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/Female_fronthair_two
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/Female_fronthair_two/Female_Bone09
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/Female_lefthair_one
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/Female_lefthair_one/Female_lefthair_two
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/Female_lefthair_one/Female_lefthair_two/Female_Bone12
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/Female_leftponytail_one
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/Female_leftponytail_one/Female_leftponytail_two
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/Female_leftponytail_one/Female_leftponytail_two/Female_Bone03
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/Female_lefttophair
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/Female_lefttophair/Female_Bone05
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/Female_righthair_one
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/Female_righthair_one/Female_righthair_two
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/Female_righthair_one/Female_righthair_two/Female_Bone23
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/Female_rightponytail_one
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/Female_rightponytail_one/Female_rightponytail_two
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/Female_rightponytail_one/Female_rightponytail_two/Female_Bone18
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/Female_righttophair
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/Female_righttophair/Female_Bone20
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/QY_W0006_hair_bone01
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/QY_W0006_hair_bone01/QY_W0006_hair_bone02
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/QY_W0006_hair_bone01/QY_W0006_hair_bone02/Bone07
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/QY_W0006_hair_bone04
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/QY_W0006_hair_bone04/QY_W0006_hair_bone05
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/QY_W0006_hair_bone04/QY_W0006_hair_bone05/QY_W0006_hair_bone06
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 Head/QY_W0006_hair_bone04/QY_W0006_hair_bone05/QY_W0006_hair_bone06/Bone04
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 L Clavicle
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 L Clavicle/Female_Bip01 L UpperArm
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 L Clavicle/Female_Bip01 L UpperArm/Female_Bip01
+          L Forearm
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 L Clavicle/Female_Bip01 L UpperArm/Female_Bip01
+          L Forearm/Female_Bip01 L Hand
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 L Clavicle/Female_Bip01 L UpperArm/Female_Bip01
+          L Forearm/Female_Bip01 L Hand/Female_Bip01 L Finger0
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 L Clavicle/Female_Bip01 L UpperArm/Female_Bip01
+          L Forearm/Female_Bip01 L Hand/Female_Bip01 L Finger0/Female_Bip01 L Finger01
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 L Clavicle/Female_Bip01 L UpperArm/Female_Bip01
+          L Forearm/Female_Bip01 L Hand/Female_Bip01 L Finger0/Female_Bip01 L Finger01/Female_Bip01
+          L Finger02
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 L Clavicle/Female_Bip01 L UpperArm/Female_Bip01
+          L Forearm/Female_Bip01 L Hand/Female_Bip01 L Finger0/Female_Bip01 L Finger01/Female_Bip01
+          L Finger02/Bip01 L Finger0Nub
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 L Clavicle/Female_Bip01 L UpperArm/Female_Bip01
+          L Forearm/Female_Bip01 L Hand/Female_Bip01 L Finger1
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 L Clavicle/Female_Bip01 L UpperArm/Female_Bip01
+          L Forearm/Female_Bip01 L Hand/Female_Bip01 L Finger1/Female_Bip01 L Finger11
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 L Clavicle/Female_Bip01 L UpperArm/Female_Bip01
+          L Forearm/Female_Bip01 L Hand/Female_Bip01 L Finger1/Female_Bip01 L Finger11/Female_Bip01
+          L Finger12
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 L Clavicle/Female_Bip01 L UpperArm/Female_Bip01
+          L Forearm/Female_Bip01 L Hand/Female_Bip01 L Finger1/Female_Bip01 L Finger11/Female_Bip01
+          L Finger12/Bip01 L Finger1Nub
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 L Clavicle/Female_Bip01 L UpperArm/Female_Bip01
+          L Forearm/Female_Bip01 L Hand/Female_Bip01 L Finger2
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 L Clavicle/Female_Bip01 L UpperArm/Female_Bip01
+          L Forearm/Female_Bip01 L Hand/Female_Bip01 L Finger2/Female_Bip01 L Finger21
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 L Clavicle/Female_Bip01 L UpperArm/Female_Bip01
+          L Forearm/Female_Bip01 L Hand/Female_Bip01 L Finger2/Female_Bip01 L Finger21/Female_Bip01
+          L Finger22
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 L Clavicle/Female_Bip01 L UpperArm/Female_Bip01
+          L Forearm/Female_Bip01 L Hand/Female_Bip01 L Finger2/Female_Bip01 L Finger21/Female_Bip01
+          L Finger22/Bip01 L Finger2Nub
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 L Clavicle/Female_Bip01 L UpperArm/Female_Bip01
+          L Forearm/Female_Bip01 L Hand/Female_Bip01 L Finger3
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 L Clavicle/Female_Bip01 L UpperArm/Female_Bip01
+          L Forearm/Female_Bip01 L Hand/Female_Bip01 L Finger3/Female_Bip01 L Finger31
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 L Clavicle/Female_Bip01 L UpperArm/Female_Bip01
+          L Forearm/Female_Bip01 L Hand/Female_Bip01 L Finger3/Female_Bip01 L Finger31/Female_Bip01
+          L Finger32
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 L Clavicle/Female_Bip01 L UpperArm/Female_Bip01
+          L Forearm/Female_Bip01 L Hand/Female_Bip01 L Finger3/Female_Bip01 L Finger31/Female_Bip01
+          L Finger32/Bip01 L Finger3Nub
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 L Clavicle/Female_Bip01 L UpperArm/Female_Bip01
+          L Forearm/Female_Bip01 L Hand/Female_Bip01 L Finger4
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 L Clavicle/Female_Bip01 L UpperArm/Female_Bip01
+          L Forearm/Female_Bip01 L Hand/Female_Bip01 L Finger4/Female_Bip01 L Finger41
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 L Clavicle/Female_Bip01 L UpperArm/Female_Bip01
+          L Forearm/Female_Bip01 L Hand/Female_Bip01 L Finger4/Female_Bip01 L Finger41/Female_Bip01
+          L Finger42
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 L Clavicle/Female_Bip01 L UpperArm/Female_Bip01
+          L Forearm/Female_Bip01 L Hand/Female_Bip01 L Finger4/Female_Bip01 L Finger41/Female_Bip01
+          L Finger42/Bip01 L Finger4Nub
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 R Clavicle
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 R Clavicle/Female_Bip01 R UpperArm
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 R Clavicle/Female_Bip01 R UpperArm/Female_Bip01
+          R Forearm
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 R Clavicle/Female_Bip01 R UpperArm/Female_Bip01
+          R Forearm/Female_Bip01 R Hand
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 R Clavicle/Female_Bip01 R UpperArm/Female_Bip01
+          R Forearm/Female_Bip01 R Hand/Female_Bip01 R Finger0
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 R Clavicle/Female_Bip01 R UpperArm/Female_Bip01
+          R Forearm/Female_Bip01 R Hand/Female_Bip01 R Finger0/Female_Bip01 R Finger01
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 R Clavicle/Female_Bip01 R UpperArm/Female_Bip01
+          R Forearm/Female_Bip01 R Hand/Female_Bip01 R Finger0/Female_Bip01 R Finger01/Female_Bip01
+          R Finger02
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 R Clavicle/Female_Bip01 R UpperArm/Female_Bip01
+          R Forearm/Female_Bip01 R Hand/Female_Bip01 R Finger0/Female_Bip01 R Finger01/Female_Bip01
+          R Finger02/Bip01 R Finger0Nub
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 R Clavicle/Female_Bip01 R UpperArm/Female_Bip01
+          R Forearm/Female_Bip01 R Hand/Female_Bip01 R Finger1
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 R Clavicle/Female_Bip01 R UpperArm/Female_Bip01
+          R Forearm/Female_Bip01 R Hand/Female_Bip01 R Finger1/Female_Bip01 R Finger11
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 R Clavicle/Female_Bip01 R UpperArm/Female_Bip01
+          R Forearm/Female_Bip01 R Hand/Female_Bip01 R Finger1/Female_Bip01 R Finger11/Female_Bip01
+          R Finger12
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 R Clavicle/Female_Bip01 R UpperArm/Female_Bip01
+          R Forearm/Female_Bip01 R Hand/Female_Bip01 R Finger1/Female_Bip01 R Finger11/Female_Bip01
+          R Finger12/Bip01 R Finger1Nub
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 R Clavicle/Female_Bip01 R UpperArm/Female_Bip01
+          R Forearm/Female_Bip01 R Hand/Female_Bip01 R Finger2
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 R Clavicle/Female_Bip01 R UpperArm/Female_Bip01
+          R Forearm/Female_Bip01 R Hand/Female_Bip01 R Finger2/Female_Bip01 R Finger21
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 R Clavicle/Female_Bip01 R UpperArm/Female_Bip01
+          R Forearm/Female_Bip01 R Hand/Female_Bip01 R Finger2/Female_Bip01 R Finger21/Female_Bip01
+          R Finger22
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 R Clavicle/Female_Bip01 R UpperArm/Female_Bip01
+          R Forearm/Female_Bip01 R Hand/Female_Bip01 R Finger2/Female_Bip01 R Finger21/Female_Bip01
+          R Finger22/Bip01 R Finger2Nub
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 R Clavicle/Female_Bip01 R UpperArm/Female_Bip01
+          R Forearm/Female_Bip01 R Hand/Female_Bip01 R Finger3
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 R Clavicle/Female_Bip01 R UpperArm/Female_Bip01
+          R Forearm/Female_Bip01 R Hand/Female_Bip01 R Finger3/Female_Bip01 R Finger31
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 R Clavicle/Female_Bip01 R UpperArm/Female_Bip01
+          R Forearm/Female_Bip01 R Hand/Female_Bip01 R Finger3/Female_Bip01 R Finger31/Female_Bip01
+          R Finger32
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 R Clavicle/Female_Bip01 R UpperArm/Female_Bip01
+          R Forearm/Female_Bip01 R Hand/Female_Bip01 R Finger3/Female_Bip01 R Finger31/Female_Bip01
+          R Finger32/Bip01 R Finger3Nub
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 R Clavicle/Female_Bip01 R UpperArm/Female_Bip01
+          R Forearm/Female_Bip01 R Hand/Female_Bip01 R Finger4
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 R Clavicle/Female_Bip01 R UpperArm/Female_Bip01
+          R Forearm/Female_Bip01 R Hand/Female_Bip01 R Finger4/Female_Bip01 R Finger41
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 R Clavicle/Female_Bip01 R UpperArm/Female_Bip01
+          R Forearm/Female_Bip01 R Hand/Female_Bip01 R Finger4/Female_Bip01 R Finger41/Female_Bip01
+          R Finger42
+        weight: 1
+      - path: Female_Bip01/Female_Bip01 Pelvis/Female_Bip01 Spine/Female_Bip01 Spine1/Female_Bip01
+          Spine2/Female_Bip01 Neck/Female_Bip01 R Clavicle/Female_Bip01 R UpperArm/Female_Bip01
+          R Forearm/Female_Bip01 R Hand/Female_Bip01 R Finger4/Female_Bip01 R Finger41/Female_Bip01
+          R Finger42/Bip01 R Finger4Nub
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 34a8e1850672c2147807cf3ca4eb2d0f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bip01 HeadNub
+    100002: Bip01 L Finger0Nub
+    100004: Bip01 L Finger1Nub
+    100006: Bip01 L Finger2Nub
+    100008: Bip01 L Finger3Nub
+    100010: Bip01 L Finger4Nub
+    100012: Bip01 L Toe0Nub
+    100014: Bip01 R Finger0Nub
+    100016: Bip01 R Finger1Nub
+    100018: Bip01 R Finger2Nub
+    100020: Bip01 R Finger3Nub
+    100022: Bip01 R Finger4Nub
+    100024: Bip01 R Toe0Nub
+    100026: coat-001
+    100028: coat-003
+    100030: //RootNode
+    100032: Female_Bip01
+    100034: Female_Bip01 Head
+    100036: Female_Bip01 L Calf
+    100038: Female_Bip01 L Clavicle
+    100040: Female_Bip01 L Finger0
+    100042: Female_Bip01 L Finger01
+    100044: Female_Bip01 L Finger02
+    100046: Female_Bip01 L Finger1
+    100048: Female_Bip01 L Finger11
+    100050: Female_Bip01 L Finger12
+    100052: Female_Bip01 L Finger2
+    100054: Female_Bip01 L Finger21
+    100056: Female_Bip01 L Finger22
+    100058: Female_Bip01 L Finger3
+    100060: Female_Bip01 L Finger31
+    100062: Female_Bip01 L Finger32
+    100064: Female_Bip01 L Finger4
+    100066: Female_Bip01 L Finger41
+    100068: Female_Bip01 L Finger42
+    100070: Female_Bip01 L Foot
+    100072: Female_Bip01 L Forearm
+    100074: Female_Bip01 L Hand
+    100076: Female_Bip01 L Thigh
+    100078: Female_Bip01 L Toe0
+    100080: Female_Bip01 L UpperArm
+    100082: Female_Bip01 Neck
+    100084: Female_Bip01 Pelvis
+    100086: Female_Bip01 R Calf
+    100088: Female_Bip01 R Clavicle
+    100090: Female_Bip01 R Finger0
+    100092: Female_Bip01 R Finger01
+    100094: Female_Bip01 R Finger02
+    100096: Female_Bip01 R Finger1
+    100098: Female_Bip01 R Finger11
+    100100: Female_Bip01 R Finger12
+    100102: Female_Bip01 R Finger2
+    100104: Female_Bip01 R Finger21
+    100106: Female_Bip01 R Finger22
+    100108: Female_Bip01 R Finger3
+    100110: Female_Bip01 R Finger31
+    100112: Female_Bip01 R Finger32
+    100114: Female_Bip01 R Finger4
+    100116: Female_Bip01 R Finger41
+    100118: Female_Bip01 R Finger42
+    100120: Female_Bip01 R Foot
+    100122: Female_Bip01 R Forearm
+    100124: Female_Bip01 R Hand
+    100126: Female_Bip01 R Thigh
+    100128: Female_Bip01 R Toe0
+    100130: Female_Bip01 R UpperArm
+    100132: Female_Bip01 Spine
+    100134: Female_Bip01 Spine1
+    100136: Female_Bip01 Spine2
+    100138: Female_blackhair_one
+    100140: Female_blackhair_two
+    100142: Female_Bone03
+    100144: Female_Bone05
+    100146: Female_Bone07
+    100148: Female_Bone09
+    100150: Female_Bone12
+    100152: Female_Bone15
+    100154: Female_Bone18
+    100156: Female_Bone20
+    100158: Female_Bone23
+    100160: Female_frondhair_one
+    100162: Female_fronthair_two
+    100164: Female_lefthair_one
+    100166: Female_lefthair_two
+    100168: Female_leftponytail_one
+    100170: Female_leftponytail_two
+    100172: Female_lefttophair
+    100174: Female_righthair_one
+    100176: Female_righthair_two
+    100178: Female_rightponytail_one
+    100180: Female_rightponytail_two
+    100182: Female_righttophair
+    100184: foot-001
+    100186: foot-003
+    100188: hair-001
+    100190: hair-003
+    100192: hand-001
+    100194: hand-003
+    100196: head-001
+    100198: head-003
+    100200: pant-001
+    100202: pant-003
+    400000: Bip01 HeadNub
+    400002: Bip01 L Finger0Nub
+    400004: Bip01 L Finger1Nub
+    400006: Bip01 L Finger2Nub
+    400008: Bip01 L Finger3Nub
+    400010: Bip01 L Finger4Nub
+    400012: Bip01 L Toe0Nub
+    400014: Bip01 R Finger0Nub
+    400016: Bip01 R Finger1Nub
+    400018: Bip01 R Finger2Nub
+    400020: Bip01 R Finger3Nub
+    400022: Bip01 R Finger4Nub
+    400024: Bip01 R Toe0Nub
+    400026: coat-001
+    400028: coat-003
+    400030: //RootNode
+    400032: Female_Bip01
+    400034: Female_Bip01 Head
+    400036: Female_Bip01 L Calf
+    400038: Female_Bip01 L Clavicle
+    400040: Female_Bip01 L Finger0
+    400042: Female_Bip01 L Finger01
+    400044: Female_Bip01 L Finger02
+    400046: Female_Bip01 L Finger1
+    400048: Female_Bip01 L Finger11
+    400050: Female_Bip01 L Finger12
+    400052: Female_Bip01 L Finger2
+    400054: Female_Bip01 L Finger21
+    400056: Female_Bip01 L Finger22
+    400058: Female_Bip01 L Finger3
+    400060: Female_Bip01 L Finger31
+    400062: Female_Bip01 L Finger32
+    400064: Female_Bip01 L Finger4
+    400066: Female_Bip01 L Finger41
+    400068: Female_Bip01 L Finger42
+    400070: Female_Bip01 L Foot
+    400072: Female_Bip01 L Forearm
+    400074: Female_Bip01 L Hand
+    400076: Female_Bip01 L Thigh
+    400078: Female_Bip01 L Toe0
+    400080: Female_Bip01 L UpperArm
+    400082: Female_Bip01 Neck
+    400084: Female_Bip01 Pelvis
+    400086: Female_Bip01 R Calf
+    400088: Female_Bip01 R Clavicle
+    400090: Female_Bip01 R Finger0
+    400092: Female_Bip01 R Finger01
+    400094: Female_Bip01 R Finger02
+    400096: Female_Bip01 R Finger1
+    400098: Female_Bip01 R Finger11
+    400100: Female_Bip01 R Finger12
+    400102: Female_Bip01 R Finger2
+    400104: Female_Bip01 R Finger21
+    400106: Female_Bip01 R Finger22
+    400108: Female_Bip01 R Finger3
+    400110: Female_Bip01 R Finger31
+    400112: Female_Bip01 R Finger32
+    400114: Female_Bip01 R Finger4
+    400116: Female_Bip01 R Finger41
+    400118: Female_Bip01 R Finger42
+    400120: Female_Bip01 R Foot
+    400122: Female_Bip01 R Forearm
+    400124: Female_Bip01 R Hand
+    400126: Female_Bip01 R Thigh
+    400128: Female_Bip01 R Toe0
+    400130: Female_Bip01 R UpperArm
+    400132: Female_Bip01 Spine
+    400134: Female_Bip01 Spine1
+    400136: Female_Bip01 Spine2
+    400138: Female_blackhair_one
+    400140: Female_blackhair_two
+    400142: Female_Bone03
+    400144: Female_Bone05
+    400146: Female_Bone07
+    400148: Female_Bone09
+    400150: Female_Bone12
+    400152: Female_Bone15
+    400154: Female_Bone18
+    400156: Female_Bone20
+    400158: Female_Bone23
+    400160: Female_frondhair_one
+    400162: Female_fronthair_two
+    400164: Female_lefthair_one
+    400166: Female_lefthair_two
+    400168: Female_leftponytail_one
+    400170: Female_leftponytail_two
+    400172: Female_lefttophair
+    400174: Female_righthair_one
+    400176: Female_righthair_two
+    400178: Female_rightponytail_one
+    400180: Female_rightponytail_two
+    400182: Female_righttophair
+    400184: foot-001
+    400186: foot-003
+    400188: hair-001
+    400190: hair-003
+    400192: hand-001
+    400194: hand-003
+    400196: head-001
+    400198: head-003
+    400200: pant-001
+    400202: pant-003
+    4300000: f_003_coat
+    4300002: f_003_pant
+    4300004: f_003_foot
+    4300006: f_001_hair
+    4300008: f_001_head
+    4300010: f_001_hand01
+    4300012: f_001_coat
+    4300014: f_003_hand
+    4300016: f_003_hair
+    4300018: f_003_head
+    4300020: f_001_foot
+    4300022: f_001_pant
+    4300024: coat-003
+    4300026: pant-003
+    4300028: foot-003
+    4300030: hair-001
+    4300032: head-001
+    4300034: hand-001
+    4300036: coat-001
+    4300038: hand-003
+    4300040: hair-003
+    4300042: head-003
+    4300044: foot-001
+    4300046: pant-001
+    11100000: //RootNode
+    13700000: coat-001
+    13700002: coat-003
+    13700004: foot-001
+    13700006: foot-003
+    13700008: hair-001
+    13700010: hair-003
+    13700012: hand-001
+    13700014: hand-003
+    13700016: head-001
+    13700018: head-003
+    13700020: pant-001
+    13700022: pant-003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
